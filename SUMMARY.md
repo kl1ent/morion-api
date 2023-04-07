@@ -4,6 +4,7 @@
 
 ## documentation
 
+* [⚙ namespaces](documentation/namespaces.md)
 * [📓 enumerations](documentation/enumerations/README.md)
   * [📃 use\_font\_flags](documentation/enumerations/use\_font\_flags.md)
   * [📃 rounding](documentation/enumerations/rounding.md)
