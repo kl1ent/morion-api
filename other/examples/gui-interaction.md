@@ -5,5 +5,5 @@ description: example of gui interaction
 # ⚙ gui interaction
 
 {% hint style="info" %}
-to do something like this refer to&#x20;
+to do something like this, you can refer to the
 {% endhint %}
