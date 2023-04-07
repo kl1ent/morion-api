@@ -1,5 +1,5 @@
 # 💻 gui
 
 {% hint style="info" %}
-available examples:&#x20;
+available examples: [gui interaction](../../other/examples/gui-interaction.md)
 {% endhint %}
