@@ -4,7 +4,10 @@
 
 ## documentation
 
-* [⚙ namespaces](documentation/namespaces.md)
+* [⚙ namespaces](documentation/namespaces/README.md)
+  * [🔌 callbacks](documentation/namespaces/callbacks.md)
+  * [💻 gui](documentation/namespaces/gui.md)
+  * [🗺 draw](documentation/namespaces/draw.md)
 * [📓 enumerations](documentation/enumerations/README.md)
   * [📃 use\_font\_flags](documentation/enumerations/use\_font\_flags.md)
   * [📃 rounding](documentation/enumerations/rounding.md)
