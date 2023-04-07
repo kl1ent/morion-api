@@ -1,6 +1,6 @@
 # 📃 rounding
 
-### Example <a href="#example" id="example"></a>
+### example <a href="#example" id="example"></a>
 
 {% code lineNumbers="true" %}
 ```lua
@@ -8,7 +8,7 @@ draw.rect_filled(0, 0, 50, 50, color_rgb(255, 255, 255), 6, rounding.top_left | 
 ```
 {% endcode %}
 
-## Entries <a href="#entries" id="entries"></a>
+## entries <a href="#entries" id="entries"></a>
 
 | Value         |
 | ------------- |

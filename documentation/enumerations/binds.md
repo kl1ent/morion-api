@@ -1,6 +1,6 @@
 # 📃 binds
 
-### Example <a href="#example" id="example"></a>
+### example <a href="#example" id="example"></a>
 
 {% code lineNumbers="true" %}
 ```lua
@@ -8,7 +8,7 @@ gui.get_keybind_mode( binds.double_tap )
 ```
 {% endcode %}
 
-## Entries <a href="#entries" id="entries"></a>
+## entries <a href="#entries" id="entries"></a>
 
 | Value            |
 | ---------------- |

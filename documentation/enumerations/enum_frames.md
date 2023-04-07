@@ -1,6 +1,6 @@
 # 📃 enum\_frames
 
-### Example <a href="#example" id="example"></a>
+### example <a href="#example" id="example"></a>
 
 {% code lineNumbers="true" %}
 ```lua
@@ -12,7 +12,7 @@ end)
 ```
 {% endcode %}
 
-## Entries <a href="#entries" id="entries"></a>
+## entries <a href="#entries" id="entries"></a>
 
 | Value                                     |
 | ----------------------------------------- |
