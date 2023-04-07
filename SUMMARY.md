@@ -12,4 +12,5 @@
 
 ## other
 
-* [📦 examples](other/examples.md)
+* [📦 examples](other/examples/README.md)
+  * [⚙ gui interaction](other/examples/gui-interaction.md)
