@@ -9,4 +9,4 @@ layout: landing
 
 ## Location <a href="#location" id="location"></a>
 
-* scripts location: **`{csgo folder}/morion/scripts`**
+* Scripts location: **`{csgo folder}/morion/scripts`**
