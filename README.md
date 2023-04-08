@@ -5,7 +5,7 @@ coverY: 6
 layout: landing
 ---
 
-# 🪨 Morions
+# 🪨 Morion
 
 ## Location <a href="#location" id="location"></a>
 
